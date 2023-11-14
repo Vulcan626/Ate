@@ -12,4 +12,5 @@ The dataset is a csv file with the following columns:
 url: https://tianchi.aliyun.com/dataset/649
 
 ## Algorithm
-
+- Feature Engineering & Random Forest 
+- (Parameter Tuning & Evaluation)
